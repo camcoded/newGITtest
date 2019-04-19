@@ -4,4 +4,4 @@ mynum = randint(0,100)
 
 print(mynum)
  
-    
+print("new line")    
